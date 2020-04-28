@@ -1,0 +1,13 @@
+C:\Users\USER\source\repos\GettıngPrayersTime\bin\Debug\GettıngPrayersTime.exe.config
+C:\Users\USER\source\repos\GettıngPrayersTime\bin\Debug\GettıngPrayersTime.exe
+C:\Users\USER\source\repos\GettıngPrayersTime\bin\Debug\GettıngPrayersTime.pdb
+C:\Users\USER\source\repos\GettıngPrayersTime\obj\Debug\GettıngPrayersTime.csprojAssemblyReference.cache
+C:\Users\USER\source\repos\GettıngPrayersTime\obj\Debug\GettıngPrayersTime.Form1.resources
+C:\Users\USER\source\repos\GettıngPrayersTime\obj\Debug\GettıngPrayersTime.Properties.Resources.resources
+C:\Users\USER\source\repos\GettıngPrayersTime\obj\Debug\GettıngPrayersTime.csproj.GenerateResource.cache
+C:\Users\USER\source\repos\GettıngPrayersTime\obj\Debug\GettıngPrayersTime.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\GettıngPrayersTime\obj\Debug\GettıngPrayersTime.exe
+C:\Users\USER\source\repos\GettıngPrayersTime\obj\Debug\GettıngPrayersTime.pdb
+C:\Users\USER\source\repos\GettıngPrayersTime\bin\Debug\Newtonsoft.Json.dll
+C:\Users\USER\source\repos\GettıngPrayersTime\bin\Debug\Newtonsoft.Json.xml
+C:\Users\USER\source\repos\GettıngPrayersTime\obj\Debug\GettıngPrayersTime.csproj.CopyComplete
